@@ -1,0 +1,1 @@
+package ma.formations.graphql.enums;
